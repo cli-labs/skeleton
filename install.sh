@@ -4,7 +4,7 @@ set -e
 echo "Installing skeleton..."
 
 # Download latest binary
-curl -L https://github.com/<you>/<repo>/releases/latest/download/skeleton -o skeleton
+curl -L https://github.com/cli-labs/skeleton/releases/latest/download/skeleton -o skeleton
 
 # Make executable
 chmod +x skeleton
