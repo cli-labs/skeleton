@@ -6,6 +6,14 @@ Skeleton helps you **save 20–30% of setup time** every time you start a new Nu
 
 ---
 
+## Installation
+
+Currently tested only in macOS.
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/cli-labs/skeleton/main/install.sh | sh
+```
+
 ## 🚀 Features
 
 ### ✅ Instant Project Bootstrapping
